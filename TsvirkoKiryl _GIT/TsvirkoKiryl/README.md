@@ -1,2 +1,0 @@
-# TsvirkoKiryl
-DS03
